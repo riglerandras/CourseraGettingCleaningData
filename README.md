@@ -1,7 +1,7 @@
 ---
 title: "Documentation on tidifying UCI HAR Dataset"
 author: "Andras Rigler"
-date: "Friday, March 20, 2015"
+date: "Friday, November 6, 2015"
 output: html_document
 ---
 
